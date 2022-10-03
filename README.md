@@ -2,7 +2,7 @@
 ![Views](https://Views-badge.glitch.me/badge?page_id=mohamed-radwan-devops.Views-badge)
 ![GitHub followers](https://img.shields.io/github/followers/MohamedRadwan-DevOps?style=social)
 <a href="https://mvp.microsoft.com/en-us/PublicProfile/4039889?fullName=Mohamed%20Radwan" target="_blank">
-	<img src="https://img.shields.io/badge/-MVP%20Profile-blue?style=flat-square&logo=Microsoft&logoColor=white" alt="MVP Badge">
+	<img src="https://img.shields.io/badge/-MVP-blue?style=flat-square&logo=Microsoft&logoColor=white" alt="MVP Badge">
 <a href="https://www.linkedin.com/in/mohamedahmedradwan/" target="_blank">
 	<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
