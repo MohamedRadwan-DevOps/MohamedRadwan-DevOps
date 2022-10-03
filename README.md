@@ -16,7 +16,7 @@
 	<img src="https://img.shields.io/badge/YouTube-FF0000?style=soical&logo=youtube&logoColor=white" alt="YouTube">
 </a>
 <a href="https://mohamedradwan.com/" target="_blank">
-	<img src="https://img.shields.io/badge/blog-21759B?style=flat&logo=wordpress&logoColor=white%22%20alt=%22Blog">
+	<img src="https://img.shields.io/badge/Blog (Webiste)-21759B?style=flat&logo=wordpress&logoColor=white%22%20alt=%22Blog">
 </a>
 <a href="https://marketplace.visualstudio.com/publishers/MohamedRadwan-MVP" target="_blank">
 	<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?flat&logo=azure-devops&logoColor=white" alt="Azure DevOps Badge">
