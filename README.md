@@ -1,5 +1,4 @@
 ![banner.jpg](https://github.com/MohamedRadwan-DevOps/MohamedRadwan-DevOps/blob/main/Mo-radwan-banner-2022.png)
-![Views](https://visitor-badge.glitch.me/badge?page_id=mohamed-radwan-devops.visitor-badge)
 ![GitHub followers](https://img.shields.io/github/followers/MohamedRadwan-DevOps?style=social)
 <a href="https://mvp.microsoft.com/en-us/PublicProfile/4039889?fullName=Mohamed%20Radwan" target="_blank">
 	<img src="https://img.shields.io/badge/-MVP Profile-blue?style=flat-square&logo=Microsoft&logoColor=white" alt="MVP Badge">
