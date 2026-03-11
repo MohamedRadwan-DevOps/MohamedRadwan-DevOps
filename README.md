@@ -23,19 +23,20 @@
 
 <h2>✨ About Mohamed</h2>
 
-Mohamed is a Microsoft DevOps MVP and Principal DevOps Consultant in the UK specializing in DevOps Practices, Technologies, Agile and Azure Platform. Over the course of 22 years, Mohamed has helped over 60 enterprise companies based around the globe some of them from the Fortune 500, including the UK, Denmark, USA, France, among others. 
+Mohamed is a **Microsoft MVP (DevOps)** and **Head of DevOps Advisory & Principal Engineering Manager** based in the UK, with **24+ years of experience** leading **Azure and DevOps transformation** across multinational organisations in both the **public and private sectors**.
 
-He has a huge passion for automation with professional experience spanning the different stages and phases of Software Development Lifecycle. he has authored many technical guides, papers, and automation frameworks published on GitHub, Azure DevOps Marketplace, and other technical communities. He also provided other contributions to technical communities like GitHub, Stack Overflow, and many others. He has frequently spoken at many technology conferences and events such as Microsoft Tech Days UK, Microsoft Ignite the Tour in London, Campus Days in Denmark, and Microsoft Open Days in Egypt, among others.
+He leads DevOps advisory and engineering engagements across the UK, driving **enterprise cloud transformation**, **platform operations**, and **secure CI/CD at scale**. His hands-on background spans **Azure (IaaS/PaaS/SaaS)**, **Entra ID**, **Infrastructure as Code (Terraform/ARM/Ansible)**, **Azure DevOps & GitHub**, and automation using **PowerShell/Bash**, with a strong focus on **security, governance, and compliance**.
 
-Mohamed has a YouTube channel and blog where they have hundreds of videos and articles with thousands of subscribers and millions of views from all over the globe.
+Mohamed is known for building operating models and delivery frameworks that deliver **measurable improvement**, including **standardised CI/CD patterns**, **policy-driven DevSecOps**, and **compliance-ready audit evidence**. His advisory work includes DevOps and platform assessments through structured discovery, stakeholder interviews, evidence review, audits, and roadmap creation, alongside defining strategy, target operating models, governance, standards, KPIs, and execution plans. One of his specialities is **end-to-end traceability and audit trails**, connecting requirements, source control, build automation, releases, configuration, environments, and monitoring to support governance, artifact lineage, and regulated delivery.
 
+He actively contributes to the community through technical guides, papers, and automation frameworks published on **GitHub**, the **Azure DevOps Marketplace**, and other global communities. He is also a frequent speaker at international technology events including **Microsoft Tech Days UK**, **Microsoft Ignite The Tour (London)**, and conferences across **Denmark, Japan, and the UAE**.
+
+Mohamed also shares learning content through his **YouTube channel** and **blog**, with **hundreds of videos and articles**, reaching thousands of subscribers and viewers worldwide.
 
 <h2>⭐ GitHub Stats</h2>
 
 [![MRadwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedRadwan-DevOps&show_icons=true)](https://github.com/MohamedRadwan-DevOps)
 
-
-
 <h2>🔠 Languages Stats</h2>
 
-<img src="https://github-readme-stats.vercel.app//api/top-langs/?username=MohamedRadwan-DevOps&layout=compact&theme=" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedRadwan-DevOps&layout=compact" alt="Top Languages" />
